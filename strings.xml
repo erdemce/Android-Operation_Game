@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mathe</string>
+    <string name="welcheFrage">1. FRAGE</string>
+    <string name="text_Frage">10 X 11 =</string>
+    <string name="text_Submit">SUBMIT</string>
+    <string name="text_Richtig" >RICHTIG</string>
+    <string name="text_Falsch" >FALSCH</string>
+    <string name="text_Punkte">0 punkte</string>
+    <string name="_antwort">Schreib hier den Antwort</string>
+</resources>
