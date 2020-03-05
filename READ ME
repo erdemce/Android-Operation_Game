@@ -1,0 +1,9 @@
+Android Arithmetik Operation Game:
+
+Eine kleine Android-Applikation über Arithmetik mit Android-Studio(Java):
+
+Es besteht aus 4 Aktivität.
+In ersten Aktivität kann man die Operation(+,-,X,/) auswählen,
+und in Zweiten Schwierigkeit-Niveau. In Dritten soll man zufällige
+zehn Fragen mit ausgewählte Operation mit diesem Schwierigkeit-Niveau antworten.
+Letzte Aktivität ist für Ergebnis.
